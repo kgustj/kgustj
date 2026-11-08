@@ -11,17 +11,6 @@
 | [레이서 포트폴리오](https://github.com/kgustj/elice-portfolio-share) | 백엔드 | 포트폴리오 작성·공유 서비스 |
 | [elice-wiki](https://github.com/kgustj/elice-wiki) | 프론트엔드 | 학습 기록 위키형 커뮤니티 |
 
-## 바로 보기
-
-| 페이지 | 내용 |
-|---|---|
-| [G-school 포트폴리오](https://kgustj.github.io/g-school/portfolio/) | G-school 과정 개인·팀 프로젝트 기록 |
-| [커튼콜](https://kgustj.github.io/g-school/curtaincall/Main/) | 연극 정보·커뮤니티 사이트 |
-| [깨토리 인포그래픽](https://kgustj.github.io/g-school/infographic-chart/) | Chart.js 인포그래픽 |
-| [자기소개](https://kgustj.github.io/elice-introduce-js/public/) | Hyunseo.log 자기소개 페이지 |
-| [오목](https://kgustj.github.io/elice-ai-track/01-js/omok/public/) | 15×15 오목 게임 |
-| [그림판](https://kgustj.github.io/clone-coding/paintjs-canvas/) | Canvas 그림판 |
-| [모멘텀](https://kgustj.github.io/clone-coding/momentom-js/) | 시계·할 일·날씨 시작 화면 |
 
 ## 학습 기록
 
