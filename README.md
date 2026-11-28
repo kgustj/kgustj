@@ -12,6 +12,11 @@
 | [elice-wiki](https://github.com/kgustj/elice-wiki) | 프론트엔드 | 학습 기록 위키형 커뮤니티 |
 
 
+## 개인 프로젝트
+
+- [create-curtaincall-node](https://github.com/kgustj/create-curtaincall-node): 공연 커뮤니티 "커튼콜"을 Node.js로 다시 만든 버전
+- [elice-introduce-js](https://github.com/kgustj/elice-introduce-js): 자기소개 웹페이지 (HTML·CSS·JS)
+
 ## 학습 기록
 
 - [elice-ai-track](https://github.com/kgustj/elice-ai-track): 엘리스 AI 트랙 4기 실습 (JS, Node, React, Python, AI)
@@ -20,8 +25,3 @@
 - [hsu](https://github.com/kgustj/hsu): 한성대학교 수업 실습 (C, JavaScript·Node, Python, Java)
 - [study-algorithm](https://github.com/kgustj/study-algorithm): 알고리즘 문제 풀이 (백준·프로그래머스)
 - [study-node](https://github.com/kgustj/study-node): Node.js 게시판 학습 (Passport·JWT 인증, 메일 발송)
-
-## 개인 프로젝트
-
-- [create-curtaincall-node](https://github.com/kgustj/create-curtaincall-node): 공연 커뮤니티 "커튼콜"을 Node.js로 다시 만든 버전
-- [elice-introduce-js](https://github.com/kgustj/elice-introduce-js): 자기소개 웹페이지 (HTML·CSS·JS)
